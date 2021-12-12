@@ -1,0 +1,61 @@
+{
+  "sport persons": 
+  [
+    {
+      "name": "Cristiano Ronaldo",
+      "profession": "FootBall",
+      "gender": "Male",
+      "age":35
+      
+    },
+    {
+      "name": "Virat Kohli",
+      "profession": "Cricket",
+      "gender": "Male",
+      "age":38
+    },
+    {
+      "name": "Sania Mirza",
+      "profession": "Tennis",
+      "gender": "Female",
+      "age": 35
+    },
+    {
+      "name": "Ashwin",
+      "profession": "Cricket",
+      "gender": "Male",
+      "age": 39
+    },
+    {
+      "name": "Kothajit Singh",
+      "profession": "Hockey",
+      "gender": "Male",
+      "age": 29
+    },
+    {
+      "name": "Rohit Kumar",
+      "profession": "Kabaddi",
+      "gender": "Male",
+      "age": 24
+    },
+    {
+      "name": "Hayley Wickenheiser",
+      "profession": "Hockey",
+      "gender": "Female",
+      "age": 43
+    },
+    {
+      "name": "Mitali Raj",
+      "profession": "Cricket",
+      "gender": "Male",
+      "age" : 39
+    },
+    {
+      "name": "Arjuna Awardee",
+      "profession": "Kabaddi",
+      "gender": "Female",
+      "age": 24
+    },
+ 
+  ]
+}
